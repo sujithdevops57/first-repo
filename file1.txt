@@ -1,1 +1,4 @@
 hi this is for tags practise...5657
+
+
+hello java ,jdbc,servlet.jsp -----edited for fetch command
